@@ -1,2 +1,2 @@
 # CaraOuCoroa
-jogo de caro ou coroa
+Jogo de cara e coroa desenvolvido com React-Native 
